@@ -1,2 +1,2 @@
 # stackoverflow
-scripts used for examples on SO
+scripts and files used for questions, answers and examples on StackOverflow.com  
