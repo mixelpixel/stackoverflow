@@ -10,13 +10,3 @@ for j in range(max_index + 1):
 
 print adjacency_matrix
 
-
-
-max_index = 4
-adjacency_matrix = adjacency_matrix = [[True for i in range(max_index + 1)] for j in range(max_index + 1)]
-adjacency_matrix
-# [[True, True, True, True, True],
-#  [True, True, True, True, True],
-#  [True, True, True, True, True],
-#  [True, True, True, True, True],
-#  [True, True, True, True, True]]
